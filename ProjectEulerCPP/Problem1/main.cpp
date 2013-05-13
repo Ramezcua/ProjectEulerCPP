@@ -1,7 +1,29 @@
-#include <iostream>
+/* Created by Ricco Amezcua
+ * May 12, 2013
+ *
+ * Problem 1
+ * If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. 
+ * The sum of these multiples is 23.Find the sum of all the multiples of 3 or 5 below 1000.
+ */
 
-int main (int argc, char * const argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+#include <iostream>
+using namespace std;
+
+int main (int argc, char * const argv[]) 
+{
+	int sum = 0;
+	
+	for (int i; i < 1000; ++i) 
+	{
+		if (i % 5 == 0) 
+		{
+			sum += i;
+		}
+		else if (i % 3 == 0) 
+		{
+			sum += i;
+		}
+	}
+	
+	cout << "The sum of the multiples is " << sum;
 }

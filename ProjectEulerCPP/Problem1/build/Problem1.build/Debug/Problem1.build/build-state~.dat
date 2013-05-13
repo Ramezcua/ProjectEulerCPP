@@ -1,0 +1,57 @@
+TProblem1
+v7
+r0
+t390104614.699544
+cCheck dependencies
+cCompileC build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/Problem1
+t2
+s0
+
+N/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/Problem1.LinkFileList
+c0000000051904EA60000000000000082
+t1368411814
+s130
+
+N/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp
+c0000000051904E9D00000000000001FF
+t1368411805
+s511
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies390104614#390104614#0(0"0(0#1#0"8613847552#0"0#
+
+CCompileC build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s390104614.272624
+e390104614.699459
+r0
+xCompileC
+xbuild/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o
+x/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp: In function 'int main(int, char* const*)':
+o/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:16: error: expected ',' or ';' before 'for'
+o/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:16: error: 'i' was not declared in this scope
+o/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:16: error: expected `;' before ')' token
+o/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:14: warning: unused variable 'sum'
+o/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:28: error: expected `}' at end of input
+lSLF07#2@75"Compile /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp390104614#390104614#0(658"/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp: In function 'int main(int, char* const*)':/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:16: error: expected ',' or ';' before 'for'/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:16: error: 'i' was not declared in this scope/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:16: error: expected `;' before ')' token/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:14: warning: unused variable 'sum'/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp:28: error: expected `}' at end of input5(4@32"Expected ',' or ';' before 'for'390104614#112#112#0(6@67"/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp390104605#16#0#16#0#19"expected * before *0(4@34"'i' was not declared in this scope390104614#224#114#0(6@67"/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp390104605#16#0#16#0#34"'*' was not declared in this scope0(4@29"Expected `;' before ')' token390104614#338#109#0(6@67"/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp390104605#16#0#16#0#19"expected * before *0(22@21"Unused variable 'sum'390104614#447#103#0(6@67"/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp390104605#14#0#14#0#19"unused variable '*'0(4@28"Expected `}' at end of input390104614#550#108#0(6@67"/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp390104605#28#0#28#0#0"0(0#0#67"/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp8613609472#1529"    cd /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Problem1-generated-files.hmap -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Problem1-own-target-headers.hmap -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Problem1-all-target-headers.hmap -iquote /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Problem1-project-headers.hmap -F/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/include -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/DerivedSources/x86_64 -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/DerivedSources -c /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp -o /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/Problem1 normal x86_64
+r0
+

@@ -1,0 +1,59 @@
+TProblem1
+v7
+r0
+t390104868.254204
+cCheck dependencies
+cCompileC build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/Problem1 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/Problem1
+t1368412068
+s10664
+
+N/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/Problem1.LinkFileList
+c0000000051904EA60000000000000082
+t1368411814
+s130
+
+N/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o
+t1368412068
+s67348
+
+N/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp
+c0000000051904FA10000000000000213
+t1368412065
+s531
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies390104867#390104867#0(0"0(0#1#0"8614194464#0"0#
+
+CCompileC build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s390104867.913302
+e390104868.235122
+r1
+xCompileC
+xbuild/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o
+x/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp390104867#390104868#0(0"0(0#0#67"/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp8614827744#1529"    cd /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Problem1-generated-files.hmap -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Problem1-own-target-headers.hmap -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Problem1-all-target-headers.hmap -iquote /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Problem1-project-headers.hmap -F/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/include -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/DerivedSources/x86_64 -I/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/DerivedSources -c /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/main.cpp -o /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/Problem1 normal x86_64
+s390104868.235212
+e390104868.254152
+r1
+xLd
+x/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/Problem1
+xnormal
+xx86_64
+lSLF07#2@84"Link /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/Problem1390104868#390104868#0(0"0(0#0#0"8613132672#602"    cd /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug -F/Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug -filelist /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Problem1.build/Debug/Problem1.build/Objects-normal/x86_64/Problem1.LinkFileList -mmacosx-version-min=10.6 -o /Users/riccoamezcua/Code/CPP_Code/ProjectEulerCPP/Problem1/build/Debug/Problem10#
+
